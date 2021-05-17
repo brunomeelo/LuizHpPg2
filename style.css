@@ -28,8 +28,7 @@ html, body{
     background-size: cover;
     background-attachment: fixed;
     display: flex;
-    flex-direction: column;
-    /* flex-wrap: wrap; */
+    flex-direction: column;    
     justify-content: center;
     align-items: center;
 }
@@ -48,8 +47,8 @@ header{
     margin-top: 60px;
     color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 50px;
-    text-shadow: rgb(27, 165, 165) -0.035em 0.035em 0.05rem, rgb(192, 19, 180) 0.035em -0.035em 0.05rem;
+    font-size: 40px;
+    text-shadow: rgb(27, 165, 165) -7px 7px 7px, rgb(192, 19, 180) 7px -7px 7px;
 
 }
  
